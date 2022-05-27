@@ -1,1 +1,1 @@
-# QA_tasks
+# QA_terminal
